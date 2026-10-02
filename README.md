@@ -21,13 +21,13 @@ LANGUAGES: Php, Javascript, HTML, CSS, MySQL, possibly more
 A record of all meetings including the meeting minutes can be found on the project's [wiki](https://github.com/Bilal-yat/StackOverflow/wiki)
 
 ## Team Members:
-- Meet Vora (40155271) / GitHub ID: Itsmeeeet
-- Bilal Yattou (40110820) Section SD / GitHub ID: Bilal-yat
-- Kunal Shah (40153500) / Github ID: Kunal22shah
-- Abdul-Rahman Mirza (40058876) / GitHub ID: foxdye96
-- Najeeb Hyatoolla (40133092) / GitHub ID: NajeebH
-- Daniel Henriques da Silva (40157010) / Github ID: D-H-S
-- Haytham Hnine (40128181) / GitHub ID: haytham5
+- Meet Vora / GitHub ID: Itsmeeeet
+- Bilal Yattou / GitHub ID: Bilal-yat
+- Kunal Shah / Github ID: Kunal22shah
+- Abdul-Rahman Mirza / GitHub ID: foxdye96
+- Najeeb Hyatoolla / GitHub ID: NajeebH
+- Daniel Henriques da Silva / Github ID: D-H-S
+- Haytham Hnine / GitHub ID: haytham5
 
 # How the code works
 When developing a core/feature implementation theres 3 parts:
